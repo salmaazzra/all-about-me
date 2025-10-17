@@ -1,4 +1,7 @@
-title: "all-about-me"
-theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+title: All About Me
+description: Website UTS 
 
+url: "https://salmaazzra.github.io"
+baseurl: "/all-about-me"
+
+remote_theme: just-the-docs/just-the-docs
