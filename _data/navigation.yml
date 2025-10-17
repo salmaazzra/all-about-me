@@ -1,6 +1,6 @@
 - title: "Selamat Datang"
-  url: "/"
+  url: /
 
 - title: "Introduction"
-  url: "/introduction/"
+  url: /pages/introduction.html
 
