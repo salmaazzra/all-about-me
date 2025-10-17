@@ -2,6 +2,6 @@ main:
   - title: "Selamat Datang"
     url: /
   - title: "Introduction"
-    url: /introduction
+    url: /introduction.md
   - title: "My Songs for You"
     url: /My Songs for You.md
