@@ -1,12 +1,10 @@
 ---
-layout: default
 title: "Introduction"
+nav_order: 2
 ---
 
 # Introduction
 
-Ini adalah perkenalan
+Halo! Ini halaman introduction Salma ✨
 
-
-
-
+(Isi bebas kamu tulis di sini.)
