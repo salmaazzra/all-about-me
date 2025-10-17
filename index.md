@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Selamat Datang"
-nav order: 1
+nav_order: 1
 ---
 
 # Selamat Datang 
