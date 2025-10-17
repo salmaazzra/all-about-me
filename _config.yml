@@ -1,1 +1,9 @@
+title: "All About Me"
+baseurl: ""         # karena ini project pages tapi di root user site
+url: "https://salmaazzra.github.io"
+
+remote_theme: pmarsceill/just-the-docs
+
+# Aktifkan navigation
+aux_links: {}
 
