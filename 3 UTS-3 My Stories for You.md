@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 3 My Stories for You
+title: UTS-3 My Stories for You
 nav_order: 4
 ---
 
-# 3 My Stories
+# UTS-3 My Stories
 ## Awal Titik Balik
 
 Sore itu, selepas sholat Maghrib, udara di rumah terasa hangat dan tenang. Cahaya senja perlahan memudar. Aku duduk di ruang tengah, dengan mata terpaku pada layar TV sambil sesekali bermain.
