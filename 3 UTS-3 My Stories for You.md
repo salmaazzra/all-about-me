@@ -44,7 +44,8 @@ Aku belajar untuk tidak menyerah dan tetap berproses. Mulai saat itu, setiap kal
 
 
 <p align="right">
-  <a href="2%20UTS-2%20My%20Shapes.html">Next →</a>
+  <a href="2-UTS-2-My-Shapes.html">Next →</a>
 </p>
+
 
 
