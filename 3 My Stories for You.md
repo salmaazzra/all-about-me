@@ -10,17 +10,17 @@ nav_order: 4
 Sore itu, selepas sholat Maghrib, udara di rumah terasa hangat dan tenang. Cahaya senja perlahan memudar. Aku duduk di ruang tengah, masih memakai baju rumah, dengan mata terpaku pada layar TV sambil sesekali bermain-main.
 
 
-Ibuku datang dan berkata,  
+Ibuku datang dan berkata, <br>
 “Besok kan kamu UTS, yuk belajar dulu.”
 
 
 
-Aku menjawab,  
+Aku menjawab, <br>
 “Iya, nanti, Bun. Salma mau nonton tv dulu.”
 
 
 
-Lalu aku tetap menonton TV. Ibuku menatapku sejenak, sebelum akhirnya berkata dengan nada tegas:  
+Lalu aku tetap menonton TV. Ibuku menatapku sejenak, sebelum akhirnya berkata dengan nada tegas: <br>
 **“Kalau kamu maunya main terus, ya sudah. Besok bunda bilang ke guru kamu kalau kamu udah nggak mau belajar dan sekolah.”**
 
 
@@ -33,7 +33,7 @@ Aku mulai menyadari bahwa setiap kali menunda belajar, aku tidak memberi kesempa
 Aku meminta maaf pada ibuku dan langsung menyiapkan buku dan materi untuk UTS keesokan harinya. Malam itu, aku mulai belajar dengan sungguh-sungguh, mengatur waktu antara bermain dan belajar, dan mencoba fokus sepenuhnya pada setiap pelajaran. Hasilnya luar biasa, **dari yang awalnya tidak pernah masuk tiga besar, aku berhasil meraih juara 1 di kelas.**
 
 
-Pengalaman itu mengajarkanku sebuah pelajaran sederhana namun berharga:  
+Pengalaman itu mengajarkanku sebuah pelajaran sederhana namun berharga: <br>
 **Usaha yang konsisten dan tekad yang kuat akan membuahkan hasil yang nyata. Terkadang, hal-hal yang awalnya tampak tidak mungkin, akhirnya bisa dicapai jika kita sungguh-sungguh berusaha.** Aku belajar untuk tidak menyerah dan tetap berproses.
 
 
