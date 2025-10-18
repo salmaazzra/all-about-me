@@ -6,6 +6,7 @@ nav_order: 4
 
 # UTS-3 My Stories
 ## Awal Titik Balik
+__Oleh: Salma Az Zahra_
 
 Sore itu, selepas sholat Maghrib, udara di rumah terasa hangat dan tenang. Cahaya senja perlahan memudar. Aku duduk di ruang tengah, dengan mata terpaku pada layar TV sambil sesekali bermain.
 
