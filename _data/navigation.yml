@@ -5,3 +5,20 @@ main:
     url: /introduction.md
   - title: "My Songs for You"
     url: /My Songs for You.md
+  - title : "My Stories for You"
+    url: /My Stories for You.md
+  - title: "My Shapes"
+    ur: /My Shapes.md
+  - title: "My Personal Reviews"
+    url: /My Personal Reviews.md
+  - title: "My Concepts"
+    url: /My Concepts.md
+  - title: "My Opinions"
+    url: /My Opinions
+  - title: "My Innovations"
+    url: /My Innovations
+  - title: "My Knowledge"
+    url: /My Knowledge
+  - title: "My Professional Reviews"
+    url: /My Professional Reviews
+    
