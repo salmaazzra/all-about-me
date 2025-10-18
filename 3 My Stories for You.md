@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # 3 My Stories
-## 3.1 Awal Titik Balik
+## Awal Titik Balik
 
 Sore itu, selepas sholat Maghrib, udara di rumah terasa hangat dan tenang. Cahaya senja perlahan memudar. Aku duduk di ruang tengah, dengan mata terpaku pada layar TV sambil sesekali bermain.
 
@@ -20,20 +20,19 @@ Aku menjawab, <br>
 
 
 
-Lalu aku tetap menonton TV. Ibuku menatapku sejenak, sebelum akhirnya berkata dengan nada tegas: <br>
+Lalu aku lanjut menonton TV. Ibuku menatapku sejenak, sebelum akhirnya berkata dengan nada tegas: <br>
 **“Kalau kamu maunya main terus, ya sudah. Besok bunda bilang ke guru kamu kalau kamu udah nggak mau belajar dan sekolah.”**
 
 
-Aku terdiam dan merenung panjang. Selayaknya anak yang masih duduk di bangku SD, kata-kata itu membuatku mulai menangis dan hati kecilku merasa bersalah. Layar TV masih menyala, tapi aku tidak lagi memperhatikan acaranya. Kata-kata itu menancap, membuatku terhenti sejenak dari kesibukan menonton tv dan bermain. Selama ini aku terlalu sering menunda belajar, lebih memilih bermain, dan tidak pernah benar-benar fokus di sekolah.
+Selayaknya anak yang masih duduk di bangku SD, aku mendunduk dan terdiam. Kata-kata itu membuatku mulai menangis dan hati kecilku merasa bersalah. Layar TV masih menyala, tapi aku tidak lagi memperhatikan acaranya. Kata-kata itu menancap, membuatku terhenti sejenak dari kesibukan menonton tv dan bermain. Selama ini aku terlalu sering menunda belajar, lebih memilih bermain, dan tidak pernah benar-benar fokus di sekolah.
 
 
 Aku mulai menyadari bahwa setiap kali menunda belajar, aku tidak memberi kesempatan pada diriku sendiri untuk berkembang. Aku ingat semua mimpi yang ingin kugapai. Semua itu terasa jauh ketika aku terlalu asik bermain. 
 
 
-Aku meminta maaf pada ibuku dan langsung menyiapkan buku dan materi untuk UTS keesokan harinya. Malam itu, aku mulai belajar dengan sungguh-sungguh, mengatur waktu antara bermain dan belajar, dan mencoba fokus sepenuhnya pada setiap pelajaran. Hasilnya luar biasa, **dari yang awalnya tidak pernah masuk tiga besar, aku berhasil meraih juara 1 di kelas.** 
+Aku meminta maaf pada ibuku dan langsung menyiapkan buku dan materi untuk UTS keesokan harinya. Malam itu, aku mulai belajar dengan sungguh-sungguh, mengatur waktu antara bermain dan belajar, dan mencoba fokus sepenuhnya pada setiap pelajaran. 
 
-
-Sejak saat itu, aku mulai konsisten untuk belajar. Tidak hanya untuk ujian, tapi juga untuk semua tugas yang diberikan. Prestasiku di sekolah semakin membaik dan aku berhasil mempertahankan prestasi akademikku.
+Hasilnya luar biasa. **Dari yang awalnya tidak pernah masuk tiga besar, aku berhasil meraih juara 1 di kelas.** Disamping itu itu, aku mulai konsisten untuk belajar setiap hari, tidak hanya untuk mempersiapkan ujian, tapi juga untuk semua tugas yang diberikan. Prestasiku di sekolah meningkat dan aku berhasil mempertahankan pencapaian akademikku.
 
 
 Pengalaman itu mengajarkanku pelajaran sederhana namun berharga: <br>
