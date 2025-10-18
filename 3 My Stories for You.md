@@ -32,7 +32,7 @@ Aku mulai menyadari bahwa setiap kali menunda belajar, aku tidak memberi kesempa
 
 Aku meminta maaf pada ibuku dan langsung menyiapkan buku dan materi untuk UTS keesokan harinya. Malam itu, aku mulai belajar dengan sungguh-sungguh, mengatur waktu antara bermain dan belajar, dan mencoba fokus sepenuhnya pada setiap pelajaran. 
 
-Hasilnya luar biasa. **Dari yang awalnya tidak pernah masuk tiga besar, aku berhasil meraih juara 1 di kelas.** Disamping itu itu, aku mulai konsisten untuk belajar setiap hari, tidak hanya untuk mempersiapkan ujian, tapi juga untuk semua tugas yang diberikan. Prestasiku di sekolah meningkat dan aku berhasil mempertahankan pencapaian akademikku.
+Hasilnya luar biasa. **Dari yang awalnya tidak pernah masuk tiga besar, aku berhasil meraih juara 1 di kelas.** Disamping itu, aku mulai konsisten untuk belajar setiap hari, tidak hanya untuk mempersiapkan ujian, tapi juga untuk semua tugas yang diberikan. Prestasiku di sekolah meningkat dan aku berhasil mempertahankan pencapaian akademikku.
 
 
 Pengalaman itu mengajarkanku pelajaran sederhana namun berharga: <br>
