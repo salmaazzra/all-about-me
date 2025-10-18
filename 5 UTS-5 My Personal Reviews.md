@@ -7,5 +7,5 @@ nav_order: 6
 # UTS-5 My Personal Reviews
 
 <p align="right">
-  <a href="2%20UTS-2%20My%20Concepts.html">Next →</a>
+  <a href="6%20UTS-6%20My%20Concepts.html">Next →</a>
 </p>
