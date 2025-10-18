@@ -41,7 +41,9 @@ Hati yang berat perlahan menemukan detak baru.
 Langkah-langkah kita jadi melodi kota,<br>
 Setiap tetes hujan memantulkan tawa dan asa.<br>
 Ketakutan luruh, diganti keberanian yang lembut,<br>
-Bandung menjadi saksi cerita kita yang baru.
+Bandung menjadi saksi cerita kita yang baru.<br>
+Setiap dukungan kecil yang kita beri,<br>
+Bisa menjadi cahaya bagi seseorang di hari mendungnya.
 
 
 
