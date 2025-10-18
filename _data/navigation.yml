@@ -1,24 +1,24 @@
 main:
   - title: "Selamat Datang"
     url: /
-  - title: "Introduction"
-    url: /introduction.md
-  - title: "My Songs for You"
-    url: /My Songs for You.md
-  - title : "My Stories for You"
-    url: /My Stories for You.md
-  - title: "My Shapes"
-    url: /My Shapes.md
-  - title: "My Personal Reviews"
-    url: /My Personal Reviews.md
-  - title: "My Concepts"
-    url: /My Concepts.md
-  - title: "My Opinions"
-    url: /My Opinions.md
-  - title: "My Innovations"
-    url: /My Innovations.md
-  - title: "My Knowledge"
-    url: /My Knowledge.md
-  - title: "My Professional Reviews"
-    url: /My Professional Reviews.md
+  - title: "1. Introduction"
+    url: /1. Introduction.md
+  - title: "2. My Songs for You"
+    url: /2. My Songs for You.md
+  - title : "3. My Stories for You"
+    url: /3. My Stories for You.md
+  - title: "4. My Shapes"
+    url: /4. My Shapes.md
+  - title: "5. My Personal Reviews"
+    url: /5. My Personal Reviews.md
+  - title: "6. My Concepts"
+    url: /6. My Concepts.md
+  - title: "7. My Opinions"
+    url: /7. My Opinions.md
+  - title: "8. My Innovations"
+    url: /8. My Innovations.md
+  - title: "9. My Knowledge"
+    url: /9. My Knowledge.md
+  - title: "10. My Professional Reviews"
+    url: /10. My Professional Reviews.md
     
