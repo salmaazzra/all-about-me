@@ -21,7 +21,7 @@ nav_order: 5
 ## 4.2 Pernyataan Misi Pribadi 
 
 _Saya ingin memberi dampak positif bagi orang-orang di sekitar saya, tidak terbatas hanya pada teman dekat, tapi juga keluarga, tetangga, atau siapa pun yang membutuhkan bantuan. Melalui tindakan nyata—membantu belajar, memberi semangat ketika mereka ragu, atau sekadar hadir untuk mendengarkan—saya berharap bisa membuat lingkungan sekitar menjadi lebih mendukung dan hangat. Saya percaya, ketika saya berbagi kemampuan dan energi positif, setiap orang dapat berkembang menjadi versi terbaik dirinya sendiri, dan kita bisa tumbuh bersama, saling menguatkan dan belajar dari satu sama lain._
-|---|
+
 
 
 ## 4.3 Identitas Naratif
