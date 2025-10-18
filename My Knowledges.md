@@ -1,9 +1,9 @@
 ---
 layout: default
-title: My Knowledge
+title: My Knowledges
 nav_order: 9
 ---
 
-# My Knowledge
+# My Knowledges
 
 
