@@ -30,10 +30,13 @@ Aku terdiam dan merenung panjang. Layar TV masih menyala, tapi aku tidak lagi me
 Aku mulai menyadari bahwa setiap kali menunda belajar, aku tidak memberi kesempatan pada diriku sendiri untuk berkembang. Aku ingat semua mimpi yang ingin kugapai. Semua itu terasa jauh ketika aku terlalu asik bermain. 
 
 
-Aku meminta maaf pada ibuku dan langsung menyiapkan buku dan materi untuk UTS keesokan harinya. Malam itu, aku mulai belajar dengan sungguh-sungguh, mengatur waktu antara bermain dan belajar, dan mencoba fokus sepenuhnya pada setiap pelajaran. Hasilnya luar biasa, **dari yang awalnya tidak pernah masuk tiga besar, aku berhasil meraih juara 1 di kelas.**
+Aku meminta maaf pada ibuku dan langsung menyiapkan buku dan materi untuk UTS keesokan harinya. Malam itu, aku mulai belajar dengan sungguh-sungguh, mengatur waktu antara bermain dan belajar, dan mencoba fokus sepenuhnya pada setiap pelajaran. Hasilnya luar biasa, **dari yang awalnya tidak pernah masuk tiga besar, aku berhasil meraih juara 1 di kelas.** 
 
 
-Pengalaman itu mengajarkanku sebuah pelajaran sederhana namun berharga: <br>
+Sejak itu, aku mulai konsisten untuk belajar. Tidak hanya untuk ujian, tapi juga untuk semua tugas yang diberikan. Prestasiku di sekolah semakin membaik dan aku berhasil mempertahankan prestasi akademikku.
+
+
+Saat itu aku masih duduk di bangku sekolah dasar, namun kejadian itu mengajarkanku sebuah pelajaran sederhana namun berharga: <br>
 **Usaha yang konsisten dan tekad yang kuat akan membuahkan hasil yang nyata. Terkadang, hal-hal yang awalnya tampak tidak mungkin, akhirnya bisa dicapai jika kita sungguh-sungguh berusaha.** Aku belajar untuk tidak menyerah dan tetap berproses.
 
 
