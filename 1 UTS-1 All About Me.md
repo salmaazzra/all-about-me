@@ -19,3 +19,9 @@ Dan jujur saja, kadang saya masih bingung menentukan langkah selanjutnya—tapi 
 
 
 Salam kenal semuanya!
+
+
+<p align="right">
+  <a href="2%20UTS-2%20My%20Songs%20for%20You.html">Next →</a>
+</p>
+
