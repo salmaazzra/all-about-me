@@ -26,21 +26,21 @@ Melalui puisi ini, saya ingin menunjukkan bahwa momen sederhana—berlari bersam
 
 ## 2.2 Puisi Cahaya di Balik Mendung
 
-Di jalan sempit, ragu mengikat langkahku,
-Langkah terhuyung mencari cahaya di balik mendung,
-Di bawah gerimis yang menari di Bandung, kita berlari bersama,
+Di jalan sempit, ragu mengikat langkahku,<br>
+Langkah terhuyung mencari cahaya di balik mendung,<br>
+Di bawah gerimis yang menari di Bandung, kita berlari bersama,<br>
 Menyatukan langkah, menembus dingin yang menggigit.
 
 
-Suaramu datang, hangat di telinga,
-Mengajakku berlari meski dunia basah.
-Tanganmu menggenggam, memberi arah,
+Suaramu datang, hangat di telinga,<br>
+Mengajakku berlari meski dunia basah.<br>
+Tanganmu menggenggam, memberi arah,<br>
 Hati yang berat perlahan menemukan detak baru.
 
 
-Langkah-langkah kita jadi melodi kota,
-Setiap tetes hujan memantulkan tawa dan asa.
-Ketakutan luruh, diganti keberanian yang lembut,
+Langkah-langkah kita jadi melodi kota,<br>
+Setiap tetes hujan memantulkan tawa dan asa.<br>
+Ketakutan luruh, diganti keberanian yang lembut,<br>
 Bandung menjadi saksi cerita kita yang baru.
 
 
