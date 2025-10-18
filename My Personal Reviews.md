@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Personal Reviews
-nav_order: 5
+nav_order: 6
 ---
 
 # My Personal Reviews
