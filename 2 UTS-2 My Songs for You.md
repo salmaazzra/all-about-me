@@ -47,7 +47,7 @@ Bisa menjadi cahaya bagi seseorang di hari mendungnya.
 
 
 <p align="right">
-  <a href="2-UTS-2-My-Stories-for-You.html">Next →</a>
+  <a href="2-UTS-2-My-Stories-for-You.html">Next →</a> 
 </p>
 
 
