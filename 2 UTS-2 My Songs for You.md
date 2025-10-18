@@ -7,27 +7,43 @@ nav_order: 3
 # UTS-2 My Songs for You
 
 ## 2.1 Tentang Karya
-Puisi berjudul __“Cahaya Kita”__ saya jadikan sebagai refleksi hubungan dan interaksi dengan orang-orang di sekitar yang dapat memberi dampak positif dalam hidup. Karya ini menceritakan bagaimana keberanian untuk berbagi cerita, mimpi, dan dukungan bisa membuat perjalanan kita lebih ringan dan penuh makna. Pesan utamanya yaitu: <br>
-__Saling menguatkan dan belajar dari satu sama lain untuk menciptakan cahaya yang lebih terang dalam hidup.__
+Puisi berjudul “Cahaya di Balik Mendung” saya buat sebagai refleksi dalam membangun hubungan dan interaksi dengan orang-orang di sekitar. Bagaimana keberanian untuk berbagi, saling mendukung, dan hadir bagi satu sama lain bisa menciptakan makna yang lebih dalam dalam perjalanan hidup. Karya ini menggambarkan momen-momen ketika keraguan dan ketakutan membatasi langkah, namun hadirnya dukungan dari orang lain memberi arah, keberanian, dan rasa ringan dalam menjalani setiap proses. 
+
+
+Pesan utamanya adalah:<br>
+__Ketika kita saling menguatkan dan berbagi, kita bisa menembus rintangan dan menemukan cahaya baru bersama.__
 
 
 Puisi ini selaras dengan pembelajaran di mata kuliah Komunikasi Interpersonal & Publik, di mana saya belajar bahwa:
-1. Mendengarkan dengan sungguh-sungguh membantu memahami perspektif orang lain.<br>
-2. Dukungan dan apresiasi sederhana bisa meningkatkan motivasi dan semangat.<br>
-3. Interaksi yang hangat dan autentik membangun ikatan emosional yang kuat.<br>
-4. Refleksi diri melalui pengalaman sosial memperdalam pemahaman terhadap diri sendiri dan orang lain.
+1. Mendengarkan dengan penuh perhatian memungkinkan kita memahami perspektif orang lain secara mendalam.<br>
+2. Dukungan sederhana—seperti kata-kata hangat atau kehadiran nyata—dapat meningkatkan motivasi dan semangat.<br>
+3. Interaksi yang tulus dan hangat membangun ikatan emosional yang kuat, bahkan di tengah tantangan.<br>
+4. Refleksi diri melalui pengalaman sosial membantu kita memahami diri sendiri dan orang lain lebih baik.
 
 
-## 2.2 Puisi Cahaya Kita
-Kau dan aku di jalan yang sama,<br>
-Langkah ringan menapak tanah yang hangat.<br>
-Ragu datang, tapi kita tersenyum,<br>
-Menguatkan hati satu sama lain.<br>
+Melalui puisi ini, saya ingin menunjukkan bahwa momen sederhana—berlari bersama di bawah gerimis, menyatukan langkah, atau menggenggam tangan untuk memberi arah—bisa membawa perubahan signifikan bagi diri sendiri dan orang lain. Ini adalah pengingat bahwa setiap tindakan positif, sekecil apapun, membentuk cahaya yang lebih terang bagi kita dan orang-orang di sekitar.
 
 
-Setiap jatuh adalah pelajaran,<br>
-Setiap tawa menyalakan semangat.<br>
-Kita berbagi cerita dan mimpi,<br>
-Seperti sungai yang mengalir bersama.<br>
-Hati ini belajar dari hati lain,<br>
-Dan dunia terasa sedikit lebih terang.
+## 2.2 Puisi Cahaya di Balik Mendung
+
+Di jalan sempit, ragu mengikat langkahku,
+Langkah terhuyung mencari cahaya di balik mendung,
+Di bawah gerimis yang menari di Bandung, kita berlari bersama,
+Menyatukan langkah, menembus dingin yang menggigit.
+
+
+Suaramu datang, hangat di telinga,
+Mengajakku berlari meski dunia basah.
+Tanganmu menggenggam, memberi arah,
+Hati yang berat perlahan menemukan detak baru.
+
+
+Langkah-langkah kita jadi melodi kota,
+Setiap tetes hujan memantulkan tawa dan asa.
+Ketakutan luruh, diganti keberanian yang lembut,
+Bandung menjadi saksi cerita kita yang baru.
+
+
+
+
+
