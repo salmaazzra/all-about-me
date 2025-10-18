@@ -14,7 +14,7 @@ Pesan utamanya adalah:<br>
 __Ketika kita saling menguatkan dan berbagi, kita bisa menembus rintangan dan menemukan cahaya baru bersama.__
 
 
-Puisi ini selaras dengan pembelajaran di mata kuliah Komunikasi Interpersonal & Publik, di mana saya belajar bahwa:
+Puisi ini sejalan dengan pembelajaran di mata kuliah ini, di mana saya belajar bahwa:
 1. Mendengarkan dengan penuh perhatian memungkinkan kita memahami perspektif orang lain secara mendalam.<br>
 2. Dukungan sederhana—seperti kata-kata hangat atau kehadiran nyata—dapat meningkatkan motivasi dan semangat.<br>
 3. Interaksi yang tulus dan hangat membangun ikatan emosional yang kuat, bahkan di tengah tantangan.<br>
