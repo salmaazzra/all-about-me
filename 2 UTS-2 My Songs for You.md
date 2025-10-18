@@ -27,7 +27,7 @@ Melalui puisi ini, saya ingin menunjukkan bahwa momen sederhana—berlari bersam
 ## 2.2 Puisi _Cahaya di Balik Mendung_
 
 Di jalan sempit, ragu mengikat langkahku,<br>
-Langkah terhuyung mencari cahaya di balik mendung,<br>
+Langkah terhuyung mencari cahaya di balik mendung.<br>
 Suaramu datang, hangat di telinga,<br>
 Mengajakku berlari meski dunia basah.
 
