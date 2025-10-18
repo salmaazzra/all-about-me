@@ -46,6 +46,8 @@ Setiap dukungan kecil yang kau beri,<br>
 Bisa menjadi cahaya bagi seseorang di hari mendungnya.
 
 
-
+<p align="right">
+  <a href="2%20UTS-2%20My%20Stories%20for%20You.html">Next →</a>
+</p>
 
 
