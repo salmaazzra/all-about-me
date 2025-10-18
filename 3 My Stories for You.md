@@ -7,7 +7,7 @@ nav_order: 4
 # 3 My Stories
 ## 3.1 Awal Titik Balik
 
-Sore itu, selepas sholat Maghrib, udara di rumah terasa hangat dan tenang. Cahaya senja perlahan memudar, menimbulkan bayangan lembut di ruang keluarga. Aku duduk di ruang tengah, masih memakai baju rumah, dengan mata terpaku pada layar TV sambil sesekali bermain-main.
+Sore itu, selepas sholat Maghrib, udara di rumah terasa hangat dan tenang. Cahaya senja perlahan memudar. Aku duduk di ruang tengah, masih memakai baju rumah, dengan mata terpaku pada layar TV sambil sesekali bermain-main.
 
 
 Ibuku datang dan berkata,
