@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Opinion
+title: My Opinions
 nav_order: 7
 ---
 
