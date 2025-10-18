@@ -6,7 +6,7 @@ nav_order: 3
 
 # UTS-2 My Songs for You
 
-## 2.1 Tentang Karya
+## 2.1 Tentang Karya: _Cahaya di Balik Mendung_
 Puisi berjudul “Cahaya di Balik Mendung” saya buat sebagai refleksi dalam membangun hubungan dan interaksi dengan orang-orang di sekitar. Bagaimana keberanian untuk berbagi, saling mendukung, dan hadir bagi satu sama lain bisa menciptakan makna yang lebih dalam dalam perjalanan hidup. Karya ini menggambarkan momen-momen ketika keraguan dan ketakutan membatasi langkah, namun hadirnya dukungan dari orang lain memberi arah, keberanian, dan rasa ringan dalam menjalani setiap proses. 
 
 
@@ -24,7 +24,7 @@ Puisi ini selaras dengan pembelajaran di mata kuliah Komunikasi Interpersonal & 
 Melalui puisi ini, saya ingin menunjukkan bahwa momen sederhana—berlari bersama di bawah gerimis, menyatukan langkah, atau menggenggam tangan untuk memberi arah—bisa membawa perubahan signifikan bagi diri sendiri dan orang lain. Ini adalah pengingat bahwa setiap tindakan positif, sekecil apapun, membentuk cahaya yang lebih terang bagi kita dan orang-orang di sekitar.
 
 
-## 2.2 Puisi Cahaya di Balik Mendung
+## 2.2 Puisi _Cahaya di Balik Mendung_
 
 Di jalan sempit, ragu mengikat langkahku,<br>
 Langkah terhuyung mencari cahaya di balik mendung,<br>
