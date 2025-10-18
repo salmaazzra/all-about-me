@@ -43,7 +43,7 @@ Dengan kombinasi kekuatan, nilai, keterampilan, kepribadian, dan pengalaman ini,
 
 
 <p align="right">
-  <a href="2-UTS-2-My-Personal-Reviews.html">Next →</a>
+  <a href="5%20UTS-5%20My%20Personal%20Reviews.html">Next →</a>
 </p>
 
 
