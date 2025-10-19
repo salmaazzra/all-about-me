@@ -6,11 +6,11 @@ nav_order : 0
 
 # Selamat Datang 
 
-Halo, terima kasih sudah berkunjung! <br>
+Halo, terima kasih sudah berkunjung!🙋🏻‍♀️ <br>
 Website ini saya buat sebagai bagian dari tugas mata kuliah Komunikasi Interpersonal dan Publik (II2100) di Program Studi Sistem dan Teknologi Informasi, STEI-ITB.
 
 
-Melalui tugas, tulisan, dan karya kecil yang ada di sini, saya mencoba memahami satu hal sederhana:
+Melalui tugas, tulisan, dan karya kecil yang ada di sini, saya mencoba memahami satu hal sederhana: <br>
 __Bagaimana caranya hadir untuk orang lain, tanpa kehilangan diri sendiri.__
 
 
