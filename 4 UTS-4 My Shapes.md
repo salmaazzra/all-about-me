@@ -43,10 +43,10 @@ Dengan kombinasi kekuatan, nilai, keterampilan, kepribadian, dan pengalaman ini,
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="3%20UTS-3%20My%20Stories%20for%20You.html">← Back</a>
+      <a href="3%20UTS-3%20My%20Stories%20for%20You.html">← UTS-3 My Stories for You</a>
     </td>
     <td align="right">
-      <a href="5%20UTS-5%20My%20Personal%20Reviews.html">Next →</a>
+      <a href="5%20UTS-5%20My%20Personal%20Reviews.html">UTS-5 My Personal Reviews →</a>
     </td>
   </tr>
 </table>
