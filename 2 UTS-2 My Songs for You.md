@@ -42,7 +42,7 @@ Langkah-langkah kita jadi melodi kota,<br>
 Setiap tetes hujan memantulkan tawa dan asa.<br>
 Ketakutan luruh, diganti keberanian,<br>
 Bandung menjadi saksi cerita kita yang baru.<br>
-Setiap dukungan kecil yang kau beri,<br>
+Setiap dukungan kecil yang kau beri,<br> 
 Bisa menjadi cahaya bagi seseorang di hari mendungnya.
 
 <table width="100%">
