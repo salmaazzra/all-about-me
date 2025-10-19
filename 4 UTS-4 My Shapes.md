@@ -40,10 +40,16 @@ Kepribadian saya ramah, terbuka, dan senang membangun hubungan. Saya pendengar y
 
 Dengan kombinasi kekuatan, nilai, keterampilan, kepribadian, dan pengalaman ini, saya ingin menjadi seseorang yang bisa memberi dampak positif luas bagi orang-orang di sekitar saya. Saya berharap bisa memanfaatkan kemampuan saya untuk mendukung, mendorong, dan menginspirasi orang lain, sehingga kita bisa tumbuh dan berkembang bersama-sama—bukan hanya sebagai individu, tapi sebagai komunitas yang saling mendukung dan belajar bersama.
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="3%20UTS-3%20My%20Stories%20for%20You.html">← Back</a>
+    </td>
+    <td align="right">
+      <a href="5%20UTS-5%20My%20Personal%20Reviews.html">Next →</a>
+    </td>
+  </tr>
+</table>
 
-
-<p align="right">
-  <a href="5%20UTS-5%20My%20Personal%20Reviews.html">Next →</a>
-</p>
 
 
