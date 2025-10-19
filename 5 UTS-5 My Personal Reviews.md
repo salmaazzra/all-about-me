@@ -6,6 +6,13 @@ nav_order: 6
 
 # UTS-5 My Personal Reviews
 
-<p align="right">
-  <a href="6%20UAS-6%20My%20Concepts.html">Next →</a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="4%20UTS-4%20My%20Shapes.html">← Back</a>
+    </td>
+    <td align="right">
+      <a href="6%20UAS-6%20My%20Concepts.html">Next →</a>
+    </td>
+  </tr>
+</table>
