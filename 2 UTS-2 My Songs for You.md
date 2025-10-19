@@ -27,31 +27,31 @@ Melalui puisi ini, saya ingin menunjukkan bahwa momen sederhana—berlari bersam
 ## 2.2 Puisi _Cahaya di Balik Mendung_
 
 Di jalan sempit, ragu mengikat langkahku,<br>
-Langkah terhuyung mencari cahaya di balik mendung.<br>
+Langkah terhuyung, mencari cahaya di balik mendung.<br>
 Suaramu datang, hangat di telinga,<br>
-Mengajakku berlari meski dunia basah.
+Mengajakku berlari, meski dunia basah.
 
 
 Di bawah gerimis yang menari di Bandung, kita berlari bersama,<br>
 Menyatukan langkah, menembus dingin yang menggigit.<br>
 Tanganmu menggenggam, memberi arah,<br>
-Hati yang berat perlahan menemukan detak baru.
+Hati yang berat, perlahan menemukan detak baru.
 
 
-Langkah-langkah kita jadi melodi kota,<br>
-Setiap tetes hujan memantulkan tawa dan asa.<br>
+Langkah-langkah kita, jadi melodi kota,<br>
+Setiap tetes hujan, memantulkan tawa dan asa.<br>
 Ketakutan luruh, diganti keberanian,<br>
-Bandung menjadi saksi cerita kita yang baru.<br>
+Bandung menjadi saksi, cerita kita yang baru.<br>
 Setiap dukungan kecil yang kau beri,<br> 
 Bisa menjadi cahaya bagi seseorang di hari mendungnya.
 
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="1%20UTS-1%20All%20About%20Me.html">← Back</a>
+      <a href="1%20UTS-1%20All%20About%20Me.html">← UTS-1 All About Me</a>
     </td>
     <td align="right">
-      <a href="3%20UTS-3%20My%20Stories%20for%20You.html">Next →</a>
+      <a href="3%20UTS-3%20My%20Stories%20for%20You.html">UTS-3 My Stories for You →</a>
     </td>
   </tr>
 </table>
