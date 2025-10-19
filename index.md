@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Selamat Datang"
+title: "Selamat Datang" 
 nav_order : 0
 --- 
 
