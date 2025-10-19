@@ -8,6 +8,6 @@ nav_order: 8
 
  
 <p align="right">
-  <a href="8%20UAS-8%20My%20OInnovations.html">Next →</a>
+  <a href="8%20UAS-8%20My%20Innovations.html">Next →</a>
 </p>
  
