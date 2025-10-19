@@ -9,10 +9,10 @@ nav_order: 9
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="7%20UAS-7%20My%20Opinions.html">← Back</a>
+      <a href="7%20UAS-7%20My%20Opinions.html">← UAS-7 My Opinions</a>
     </td>
     <td align="right">
-      <a href="9%20UAS-9%20My%20Knowledges.html">Next →</a>
+      <a href="9%20UAS-9%20My%20Knowledges.html">UAS-9 My Knowledges →</a>
     </td>
   </tr>
 </table>
