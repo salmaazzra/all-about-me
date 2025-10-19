@@ -35,7 +35,7 @@ Mengajakku berlari, meski dunia basah.
 Di bawah gerimis yang menari di Bandung, kita berlari bersama,<br>
 Menyatukan langkah, menembus dingin yang menggigit.<br>
 Tanganmu menggenggam, memberi arah,<br>
-Hati yang berat, perlahan menemukan detak baru.
+Hati yang berat, perlahan menemukan detak baru. 
 
 
 Langkah-langkah kita, jadi melodi kota,<br>
