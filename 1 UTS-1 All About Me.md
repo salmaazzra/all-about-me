@@ -23,7 +23,7 @@ Salam kenal semuanya!
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="Index">← Back</a>
+      <a href="index">← Back</a>
     </td>
     <td align="right">
       <a href="2%20UTS-2%20My%20Songs%20for%20You.html">Next →</a>
