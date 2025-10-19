@@ -45,10 +45,17 @@ Bandung menjadi saksi cerita kita yang baru.<br>
 Setiap dukungan kecil yang kau beri,<br>
 Bisa menjadi cahaya bagi seseorang di hari mendungnya.
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="1%20UTS-1%20All%20About%20Me.html">← Back</a>
+    </td>
+    <td align="right">
+      <a href="3%20UTS-3%20My%20Stories%20for%20You.html">Next →</a>
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <a href="3%20UTS-3%20My%20Stories%20for%20You.html">Next →</a>
-</p>
 
 
 
