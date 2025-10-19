@@ -23,10 +23,10 @@ Salam kenal semuanya!
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="index.html">← Back</a>
+      <a href="index.html">← Selamat Datang</a>
     </td>
     <td align="right">
-      <a href="2%20UTS-2%20My%20Songs%20for%20You.html">Next →</a>
+      <a href="2%20UTS-2%20My%20Songs%20for%20You.html">UTS-2 My Songs for You →</a>
     </td>
   </tr>
 </table>
