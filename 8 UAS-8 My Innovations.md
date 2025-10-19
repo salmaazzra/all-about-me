@@ -6,11 +6,15 @@ nav_order: 9
 
 # UAS-8 My Innovations
  
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="7%20UAS-7%20My%20Opinions.html">← Back</a>
+    </td>
+    <td align="right">
+      <a href="9%20UAS-9%20My%20Knowledges.html">Next →</a>
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <a href="9%20UAS-9%20My%20Knowledges.html">Next →</a>
-</p>
 
-<p align="left">
-  <a href="7%20UAS-7%20My%20Opinions.html">Back ←</a>
-</p>
