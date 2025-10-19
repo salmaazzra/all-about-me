@@ -20,8 +20,15 @@ Dan jujur saja, kadang saya masih bingung menentukan langkah selanjutnya—tapi 
 
 Salam kenal semuanya!
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="Index">← Back</a>
+    </td>
+    <td align="right">
+      <a href="2%20UTS-2%20My%20Songs%20for%20You.html">Next →</a>
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <a href="2%20UTS-2%20My%20Songs%20for%20You.html">Next →</a>
-</p>
 
