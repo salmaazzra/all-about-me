@@ -6,7 +6,7 @@ nav_order: 6
 
 # UTS-5 My Personal Reviews
 
-## 5.1 - All About Me <br>
+## 5.1 - All About Me 
 1. Orisinalitas <br>
 Nilai: 4 – Gagasan cukup orisinal dengan sedikit klise<br>
 
@@ -45,9 +45,9 @@ Insight yang kamu hadirkan sangat kuat dan relevan: bahwa kekuatan interpersonal
 Saran:<br>
 Untuk memperkuatnya, kamu bisa menutup dengan refleksi singkat tentang bagaimana prinsip itu kamu terapkan dalam keseharianmu di kampus atau organisasi—sehingga pembaca melihat kesinambungan antara pengalaman masa lalu dan tindakan masa kini.<br>
 
-Rata-rata: (4 + 4 + 3 + 5) 3 <br>
+Rata-rata: (4 + 4 + 3 + 5) 4 <br>
 
-## 5.2 - My Songs For You <br>
+## 5.2 - My Songs For You 
 1. Orisinalitas<br>
 Penilaian: 4 – Cukup orisinal, minim klise <br>
 
@@ -86,7 +86,7 @@ Bisa lebih menekankan transformasi personal pembaca, misal “ketika kau membaca
 
 Rata-rata: (4 + 4 + 1 + 5) 3,5 <br>
 
-## 5.3 - My Stories For You <br>
+## 5.3 - My Stories For You 
 1. Orisinalitas<br>
 Nilai: 4 – Gagasan cukup orisinal dengan sedikit tema umum<br>
 
@@ -125,7 +125,7 @@ Perkuat sisi inspiratif dengan menggambarkan perasaanmu ketika akhirnya juara 1 
 
 Rata-rata: (4 + 4 + 5 + 5) 4,25 <br>
 
-## 5.4 -  My Shape<br> 
+## 5.4 -  My Shape
 1. Orisinalitas <br>
 Penilaian: 4 – Baik <br>
 
