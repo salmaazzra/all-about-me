@@ -7,7 +7,7 @@ nav_order: 6
 
 # UTS-5 My Personal Reviews
 
-## [Link Penilaian:] (https://docs.google.com/spreadsheets/d/1rdc_8qcAE-SfnfmC31KSn3hW51Geack2/edit?usp=sharing&ouid=118180491920311323963&rtpof=true&sd=true) <br>
+[Link Penilaian:] (https://docs.google.com/spreadsheets/d/1rdc_8qcAE-SfnfmC31KSn3hW51Geack2/edit?usp=sharing&ouid=118180491920311323963&rtpof=true&sd=true) <br>
 
 ## 5.1 - All About Me 
 Orisinalitas <br>
