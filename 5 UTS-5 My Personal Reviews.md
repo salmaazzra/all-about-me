@@ -4,6 +4,8 @@ title: UTS-5 My Personal Reviews
 nav_order: 6
 ---
 
+[Link Penilaian:] (https://docs.google.com/spreadsheets/d/1rdc_8qcAE-SfnfmC31KSn3hW51Geack2/edit?usp=sharing&ouid=118180491920311323963&rtpof=true&sd=true) <br>
+
 # UTS-5 My Personal Reviews
 
 ## 5.1 - All About Me 
@@ -18,7 +20,7 @@ Saran:<br>
 Agar lebih menonjol secara orisinal, kamu bisa menambahkan detail yang lebih khas: bagaimana reaksi lucu atau tak terduga dari anak-anak itu, atau apa yang kamu rasakan secara fisik (bau cat, sentuhan daun, suasana ruangan). Detail semacam itu akan membuat kisahmu terasa “hidup” dan benar-benar berbeda dari narasi umum.<br>
 
 2. Keterlibatan<br>
-Nilai: 4 – Umumnya menarik dengan beberapa momen kuat<br>
+Nilai: 5 – Umumnya menarik dengan beberapa momen kuat<br>
 
 Alasan:<br>
 Pembukaanmu sangat memikat — menggugah imajinasi dan rasa hangat. Pembaca bisa membayangkan suasana hujan tipis dan tawa anak-anak dengan jelas. Struktur ceritanya juga rapi, dengan transisi halus menuju refleksi interpersonal.<br>
@@ -45,7 +47,7 @@ Insight yang kamu hadirkan sangat kuat dan relevan: bahwa kekuatan interpersonal
 Saran:<br>
 Untuk memperkuatnya, kamu bisa menutup dengan refleksi singkat tentang bagaimana prinsip itu kamu terapkan dalam keseharianmu di kampus atau organisasi—sehingga pembaca melihat kesinambungan antara pengalaman masa lalu dan tindakan masa kini.<br>
 
-Rata-rata: (4 + 4 + 3 + 5) 4 <br>
+Rata-rata: 4,25 <br>
 
 ## 5.2 - My Songs For You 
 1. Orisinalitas<br>
@@ -58,7 +60,7 @@ Saran:<br>
 Gunakan detail unik atau kejadian konkret yang spesifik, misal “menghindari genangan di Jalan Braga sambil tertawa” atau “melihat cahaya lampu jalan memantul di sepatu basah” untuk menambah orisinalitas dan membuat pembaca “merasakan” momen itu.<br>
 
 2. Keterlibatan<br>
-Penilaian: 4 – Menarik di sebagian besar bagian<br>
+Penilaian: 5 – Menarik di sebagian besar bagian<br>
 
 Alasan:<br>
 Puisi mengalir dan visualisasinya jelas, ada emosi yang tersampaikan. Beberapa baris bisa lebih kuat dengan ritme atau kata yang lebih “memukul” emosi pembaca. Awal puisi cukup kuat, tapi pertengahan agak datar dalam menghadirkan ketegangan atau perasaan.<br>
@@ -84,7 +86,7 @@ Puisi menekankan dukungan, keberanian, dan koneksi dengan orang lain. Pesan “s
 Saran:<br>
 Bisa lebih menekankan transformasi personal pembaca, misal “ketika kau membaca ini, ingat bahwa tindakan kecilmu bisa menyalakan harapan yang tak terduga.”<br>
 
-Rata-rata: (4 + 4 + 1 + 5) 3,5 <br>
+Rata-rata: 3,75 <br>
 
 ## 5.3 - My Stories For You 
 1. Orisinalitas<br>
@@ -97,7 +99,7 @@ Saran:<br>
 Bisa menambahkan detail khas atau adegan kecil yang lebih spesifik—misalnya ekspresi wajah ibu, suasana ruang belajar, atau kebiasaan kecilmu waktu belajar dulu—agar cerita terasa lebih unik dan benar-benar “milikmu sendiri.”<br>
 
 2. Keterlibatan<br>
-Nilai: 4 – Umumnya menarik dengan beberapa momen kuat<br>
+Nilai: 5 – Umumnya menarik dengan beberapa momen kuat<br>
 
 Alasan:<br>
 Pembukaan yang menggambarkan suasana sore setelah Maghrib berhasil mengundang imajinasi dan membuat pembaca ikut “masuk” ke ruang cerita. Teguran ibu menjadi titik emosional yang kuat. Namun, bagian akhir terasa lebih seperti laporan hasil daripada pengalaman yang “terjadi di depan mata”, sehingga sedikit menurunkan tensi emosi menjelang penutup.<br>
@@ -105,8 +107,8 @@ Pembukaan yang menggambarkan suasana sore setelah Maghrib berhasil mengundang im
 Saran:<br>
 Gunakan ritme kalimat yang lebih hidup—selingi narasi dengan sedikit refleksi batin atau deskripsi sensorik (misal: suara azan, cahaya TV, detak jantung saat dimarahi). Hal itu bisa menjaga pembaca tetap terikat hingga akhir.<br>
 
-3. Keautentikan<br>
-Nilai: 5 – Sangat jujur dan tulus; menghadirkan refleksi diri yang mendalam<br>
+3. Pengembanga Narasi<br>
+Nilai: 4 – Sangat jujur dan tulus; menghadirkan refleksi diri yang mendalam<br>
 
 Alasan:<br>
 Tulisan terasa benar-benar berasal dari pengalaman pribadi tanpa dibuat-buat. Kamu menggambarkan rasa bersalah, kesadaran, dan perubahan dengan bahasa sederhana namun mengena. Tidak ada kesan ingin mengesankan pembaca; justru ketulusan inilah yang membuat cerita terasa hidup dan mudah dipercaya.<br>
@@ -123,7 +125,7 @@ Pesan bahwa “usaha dan ketekunan membawa hasil” disampaikan dengan jelas dan
 Saran:<br>
 Perkuat sisi inspiratif dengan menggambarkan perasaanmu ketika akhirnya juara 1 atau saat ibumu mengetahui hasilnya—momen emosional itu bisa memberi dampak yang lebih kuat bagi pembaca.<br>
 
-Rata-rata: (5 + 4 + 5 + 5) 4,75 <br>
+Rata-rata: 4,75 <br>
 
 ## 5.4 -  My Shape
 1. Orisinalitas <br>
@@ -136,7 +138,7 @@ Saran:<br>
 Tambahkan contoh spesifik atau kisah unik yang jarang terjadi pada orang lain. Misalnya, cerita mini tentang bagaimana kamu menyelesaikan masalah tertentu dengan cara yang kreatif atau langkah konkret yang tidak biasa.<br>
 
 2. Keterlibatan<br>
-Penilaian: 4 – Baik<br>
+Penilaian: 5 – Baik<br>
 
 Alasan:<br>
 Narasi mengalir rapi dan bisa dipahami dari awal sampai akhir, ada beberapa momen yang menarik seperti pengalaman membantu teman. Namun, beberapa bagian agak deskriptif dan bisa terasa “datarnya” bagi pembaca.<br>
@@ -154,7 +156,7 @@ Saran:<br>
 Tetap pertahankan gaya ini, bahkan bisa lebih menekankan emosi atau perasaan pribadi saat momen itu terjadi, agar pembaca bisa merasakan langsung pengalamanmu.<br>
 
 4. Inspirasi<br>
-Penilaian: 4 – Cukup menginspirasi<br>
+Penilaian: 5 – Cukup menginspirasi<br>
 
 Alasan:<br>
 Pernyataan misi dan identitas naratif mengandung pesan positif dan memberi contoh tindakan nyata. Dampak inspiratif ada, tapi belum sepenuhnya “menggugah emosi” pembaca secara mendalam.
@@ -162,7 +164,7 @@ Pernyataan misi dan identitas naratif mengandung pesan positif dan memberi conto
 Saran:<br>
 Sertakan kisah nyata dengan tantangan atau hambatan besar yang berhasil kamu atasi. Bisa juga menambahkan refleksi tentang bagaimana hal itu memberi dampak signifikan pada orang lain. Misal, “Setelah membimbing teman yang kesulitan, saya melihat dia meraih prestasi yang sebelumnya terasa mustahil—dan itu memberi saya motivasi untuk terus berbagi.”<br>
 
-Rata-rata: (4 + 4 + 5 + 4) 4,25 <br>
+Rata-rata: 4,75 <br>
 <table width="100%">
   <tr>
     <td align="left">
