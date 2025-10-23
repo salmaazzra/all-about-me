@@ -88,7 +88,7 @@ Rata-rata: (4 + 4 + 1 + 5) 3,5 <br>
 
 ## 5.3 - My Stories For You 
 1. Orisinalitas<br>
-Nilai: 4 – Gagasan cukup orisinal dengan sedikit tema umum<br>
+Nilai: 5 – Gagasan orisinal dengan sedikit tema umum<br>
 
 Alasan:<br>
 Tulisan menghadirkan pengalaman pribadi yang nyata dan mudah dihubungkan—momen sederhana antara ibu dan anak yang berujung pada kesadaran diri. Sudut pandang anak kecil yang mulai memahami arti belajar memberi kesan tulus dan segar. Namun, tema “dimarahi orang tua lalu sadar pentingnya belajar” termasuk motif yang cukup sering muncul dalam kisah reflektif.<br>
@@ -115,7 +115,7 @@ Saran:<br>
 Keautentikanmu sudah kuat. Bisa sedikit diperkuat dengan refleksi dari sudut pandang masa kini—misalnya bagaimana peristiwa itu masih mempengaruhi sikapmu terhadap tanggung jawab atau belajar hari ini.<br>
 
 4. Inspirasi<br>
-Nilai: 4 – Cukup menginspirasi dengan pesan moral jelas<br>
+Nilai: 5 – Cukup menginspirasi dengan pesan moral jelas<br>
 
 Alasan:<br>
 Pesan bahwa “usaha dan ketekunan membawa hasil” disampaikan dengan jelas dan konsisten. Pembaca bisa ikut termotivasi untuk memperbaiki diri tanpa merasa digurui. Namun, bagian akhir terasa agak informatif; emosi kemenangan atau kebanggaan setelah berubah belum sepenuhnya tergambarkan.<br>
@@ -123,7 +123,7 @@ Pesan bahwa “usaha dan ketekunan membawa hasil” disampaikan dengan jelas dan
 Saran:<br>
 Perkuat sisi inspiratif dengan menggambarkan perasaanmu ketika akhirnya juara 1 atau saat ibumu mengetahui hasilnya—momen emosional itu bisa memberi dampak yang lebih kuat bagi pembaca.<br>
 
-Rata-rata: (4 + 4 + 5 + 5) 4,25 <br>
+Rata-rata: (5 + 4 + 5 + 5) 4,75 <br>
 
 ## 5.4 -  My Shape
 1. Orisinalitas <br>
