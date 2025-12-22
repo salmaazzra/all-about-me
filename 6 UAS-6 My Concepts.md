@@ -6,9 +6,9 @@ nav_order: 7
 
 # My Masterpiece: Penerapan Sistem dan Teknologi Informasi di Era AI untuk Akses Pendidikan dan Melek Huruf
 
-Beberapa waktu lalu aku sempat membayangkan anak-anak yang tinggal di desa terpencil mereka harus berjalan kaki berkilo-kilo untuk sekolah, atau orang dewasa yang tidak pernah belajar membaca dan menulis. Bayangan ini membuat aku berpikir: bagaimana kalau teknologi bisa membantu mereka belajar, meski jarak jauh atau sinyal internet terbatas?  
+Beberapa waktu lalu saya sempat membayangkan anak-anak yang tinggal di desa terpencil harus berjalan kaki berkilo-kilo untuk sekolah, atau orang dewasa yang tidak pernah belajar membaca dan menulis. Bayangan ini membuat saya berpikir, bagaimana jika teknologi dapat membantu mereka belajar, meski jarak jauh atau sinyal internet yang terbatas?  
 
-Dari pemikiran itu, aku mulai membangun **konsep inti**: **membawa pembelajaran ke mana pun orang berada**. Konsep ini bukan rencana yang detail, tapi seperti kerangka yang akan mengarahkan langkah-langkah selanjutnya.  
+Dari pemikiran itu, saya mulai membangun **konsep**: **membawa pembelajaran ke mana pun orang berada**. Konsep ini bukan rencana yang detail, tapi seperti kerangka yang akan mengarahkan langkah-langkah selanjutnya.  
 
 Dari konsep ini, muncul beberapa **ide**:  
 
@@ -27,9 +27,9 @@ Dari konsep ini, muncul beberapa **ide**:
 - **Belajar sambil bermain**  
   Konten dibuat menarik dan mudah dipahami supaya anak-anak dan orang dewasa lebih termotivasi.  
 
-Dengan konsep ini, satu ide besar bisa berkembang menjadi banyak langkah kecil yang nyata. Aku tidak merencanakan semuanya sekaligus, aku mulai dari satu langkah kecil dan membiarkan ide-ide berikutnya berkembang seiring aku memahami masalah dan apa yang tersedia untuk menyelesaikannya
+Dengan konsep ini, satu ide besar bisa berkembang menjadi banyak langkah kecil yang nyata. SAya tidak merencanakan semuanya sekaligus, saya mulai dari satu langkah kecil dan membiarkan ide-ide berikutnya berkembang seiring saya memahami masalah dan apa yang tersedia untuk menyelesaikannya
 
-Secara sederhana, caraku membangun konsep ini: amati masalah, lihat apa yang tersedia, pikirkan cara agar teknologi dan sistem informasi bisa membantu, lalu mulai dari satu titik kecil untuk menguji apakah ide ini berjalan. Dari titik kecil itu, ide bisa berkembang secara alami ke arah yang lebih luas.  
+Secara sederhana, cara saya membangun konsep ini, yaitu amati masalah, lihat apa yang sumber daya yang tersedia, pikirkan cara agar teknologi dan sistem informasi bisa membantu, lalu mulai dari satu titik kecil untuk menguji apakah ide ini berjalan. Dari titik kecil itu, ide bisa berkembang secara alami ke arah yang lebih luas.  
 
 ---
 
