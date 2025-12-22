@@ -172,7 +172,7 @@ Rata-rata: 4,75 <br>
       <a href="4%20UTS-4%20My%20Shapes.html">← UTS-4 My Shapes</a>
     </td>
     <td align="right">
-      <a href="6%20UAS-6%20My%20Concepts.html">UAS-6 My Concepts →</a>
+      <a href="6%20UAS-6%20My%20Concepts.html">UAS-1 My Concepts →</a>
     </td>
   </tr>
 </table>
