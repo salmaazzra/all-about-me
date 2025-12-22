@@ -5,18 +5,6 @@ nav_order: 7
 --- 
 
 # UAS-6 My Concepts: Akses Pendidikan dan Melek Huruf
-
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="5%20UTS-5%20My%20Personal%20Reviews.html">← UTS-5 My Personal Reviews</a>
-    </td>
-    <td align="right">
-      <a href="7%20UAS-7%20My%20Opinions.html">UAS-7 My Opinions →</a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 Bayangkan dunia di mana jutaan orang dewasa masih kesulitan membaca dan menulis, dan ratusan juta anak tidak dapat mengakses pendidikan yang layak. Sekitar 750 juta orang dewasa buta huruf, hampir 250 juta anak tidak bersekolah. Faktor penyebabnya beragam: kemiskinan, lokasi terpencil, konflik, diskriminasi gender, hingga gangguan pandemi. Masalah ini bukan sekadar angka di laporan statistik; ini tentang kesempatan hidup, kemampuan berpartisipasi dalam masyarakat, dan potensi untuk berkembang.  
@@ -41,3 +29,16 @@ Prinsip sederhana yang aku pegang dalam membangun konsep:
 Konsep yang hidup bukan slogan di atas kertas, tetapi **mesin abstrak yang menggerakkan aksi nyata**. Dengan literasi sebagai fondasi, teknologi dan sistem informasi bisa menjadi alat pemberdayaan yang inklusif dan berkelanjutan, memungkinkan jutaan orang mengakses pendidikan, mengembangkan keterampilan, dan memperluas kesempatan hidup mereka.  
 
 Pada akhirnya, membangun literasi global bukan sekadar membangun platform atau aplikasi; ini tentang **menyusun konsep yang jelas, menyalurkan sumber daya dengan tepat, dan membiarkan ide praktis tumbuh dari fondasi yang kuat**. Dengan konsep yang tepat, pendidikan dan literasi bisa menjadi kunci untuk membuka potensi manusia di seluruh dunia.
+
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="5%20UTS-5%20My%20Personal%20Reviews.html">← UTS-5 My Personal Reviews</a>
+    </td>
+    <td align="right">
+      <a href="7%20UAS-7%20My%20Opinions.html">UAS-7 My Opinions →</a>
+    </td>
+  </tr>
+</table>
+
