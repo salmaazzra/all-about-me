@@ -42,17 +42,6 @@ Pengalaman itu mengajarkanku pelajaran sederhana namun berharga: <br>
 
 Aku belajar untuk tidak menyerah dan tetap berproses. Mulai saat itu, setiap kali menghadapi tantangan, aku mengingat momen dimana ibu memberiku pilihan sederhana tapi penting, dan aku akhirnya menyadari arti sungguh-sungguh dalam usaha. Pelajaran itu tetap hidup dalam diriku, mengingatkan bahwa **fokus, kesabaran, dan kerja keras adalah kunci untuk menggapai tujuan.**
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="2%20UTS-2%20My%20Songs%20for%20You.html">← UTS-2 My Songs for You</a>
-    </td>
-    <td align="right"> 
-      <a href="4%20UTS-4%20My%20Shapes.html">UTS-4 My Shapes →</a>
-    </td>
-  </tr>
-</table>
-
 
 <table width="100%">
   <tr>
