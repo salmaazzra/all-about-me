@@ -54,5 +54,17 @@ Aku belajar untuk tidak menyerah dan tetap berproses. Mulai saat itu, setiap kal
 </table>
 
 
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="2%20UTS-2%20My%20Stories%20for%20You.html">← UTS-2 My Songs for You</a>
+    </td>
+    <td align="right">
+      <a href="4%20UTS-4%20My%20Shapes.html">UTS-4 My Shapes →</a>
+    </td>
+  </tr>
+</table>
+
+
 
 
