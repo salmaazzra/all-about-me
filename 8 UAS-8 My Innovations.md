@@ -31,15 +31,15 @@ Dengan inovasi ini, saya berharap lebih banyak orang bisa belajar, meningkatkan 
 
 ---
 
-
 <table width="100%">
   <tr>
     <td align="left">
-      <a href="2%20UAS-2%20My%20Opinions.html">← UAS-2 My Opinions</a>
+      <a href="2%20UAS-2%20My%20Opinions.html">← UTS-2 My Opinions</a>
     </td>
     <td align="right">
       <a href="4%20UAS-4%20My%20Knowledges.html">UAS-4 My Knowledges →</a>
     </td>
   </tr>
 </table>
+
 
